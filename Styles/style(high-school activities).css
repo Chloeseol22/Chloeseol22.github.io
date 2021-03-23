@@ -1,0 +1,24 @@
+section{
+    text-align: center;
+}
+.section1{
+    test-align: center;
+}
+section{
+    line-height: 0.9;
+}
+.section1{
+    line-height: 0.8
+}
+h2{
+    line-height: 0.7
+}
+html{
+    background-color:  #b9ddd8;
+}
+section{
+    color: rgb(10, 32, 10);
+}
+h1{
+    color: rgb(2, 34, 2)
+}

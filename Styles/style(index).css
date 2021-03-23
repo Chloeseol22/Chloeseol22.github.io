@@ -5,8 +5,58 @@ h1 {
     font-size: 50px;
 }  */
 h1{
-    color: darkmagenta;
+    color: rgb(179, 3, 85);
 }
 body{
-    background-color: rgb(255, 205, 214);
+    background-color:  #fac9d1;
+}
+
+h1{
+    font-size: 50px;
+}
+nav{
+    font-size: 17px;
+}
+h2{
+    line-height: 0.7;
+}
+h2{
+    font-size: 35px;
+}
+.heading1{
+    font-size: 30px;
+}
+.heading1{
+    line-height:0.3;
+}
+nav{
+    line-height:0.8;
+}
+section{
+    font-size: 18px;
+}
+nav{
+    text-decoration: none;
+}
+.step1{
+    line-height: 0.1;
+}
+body{
+    color: rgb(179, 3, 85);
+}
+h2{
+    text-align: center;
+}
+section{
+    text-align: center;
+}
+nav{
+    display:flex;
+    justify-content:space-around
+}
+header{
+    text-align: center;
+}
+nav{
+    color: rgb(179, 3, 85);
 }
