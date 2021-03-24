@@ -1,0 +1,34 @@
+.h23{
+    line-height: 0.8;
+}
+section{
+    line-height: 0.8;
+}
+body{
+    background-color: rgb(180, 218, 241);
+}
+.h23{
+    color: rgb(30, 19, 102);
+}
+section{
+    color: rgb(30, 19, 102)
+}
+h1{
+    color:rgba(12, 6, 48, 0.863)
+}
+h1{
+    font-size: 50px;
+}
+.h23{
+    font-size: 35px;
+}
+h1{
+    line-height: 0.7;
+}
+.h23{
+    text-decoration: underline;
+}
+nav{
+    display:flex;
+    justify-content:space-around
+}

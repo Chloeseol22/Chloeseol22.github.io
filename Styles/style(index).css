@@ -60,3 +60,33 @@ header{
 nav{
     color: rgb(179, 3, 85);
 }
+section{
+    font-weight: 545;
+}
+.step1{
+    line-height: 0.3;
+}
+header{
+    line-height: 0.7;
+}
+h1{
+    line-height: 0.8;
+}
+h2{
+    text-decoration: underline;
+}
+.double{
+    border-bottom: solid; 
+    padding-bottom: 11px;
+    margin-left: 550px;
+    margin-right: 550px;
+}
+a:visited{
+    color: rgb(136, 3, 65);
+}
+a:link{
+    color: rgb(136, 3, 65);
+}
+nav{
+    text-decoration: none;
+}
