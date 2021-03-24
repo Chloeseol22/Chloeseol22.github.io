@@ -9,6 +9,7 @@ h1{
 }
 body{
     background-color:  #fac9d1;
+    margin:0;
 }
 
 h1{
@@ -78,8 +79,8 @@ h2{
 .double{
     border-bottom: solid; 
     padding-bottom: 11px;
-    margin-left: 550px;
-    margin-right: 550px;
+    margin-left: 556px;
+    margin-right: 556px;
 }
 a:visited{
     color: rgb(136, 3, 65);
